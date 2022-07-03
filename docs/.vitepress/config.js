@@ -6,7 +6,7 @@ export default {
     siteTitle: "bat script document",
     nav: [
       { text: "Docs", link: "/bat/chapter1.1", activeMatch: "/bat/" },
-      { text: "Asserts", link: "/asserts" },
+      { text: "Asserts", link: "/asserts/index", activeMatch: "/asserts/" },
     ],
     sidebar: {
       "/bat/": sidebarBat(),
