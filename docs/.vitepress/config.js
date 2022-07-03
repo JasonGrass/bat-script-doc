@@ -1,4 +1,5 @@
 export default {
+  base: '/bat-script-doc/',
   title: "my bat script document",
   description: "bat 脚本文档收集",
   themeConfig: {
