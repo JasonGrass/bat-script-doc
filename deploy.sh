@@ -12,7 +12,7 @@ yarn build
 cd ./docs/.vitepress/dist
 
 # 如果是发布到自定义域名
-echo 'jgrass.cc' > CNAME
+# echo 'jgrass.cc' > CNAME
 
 time=$(date "+%Y%m%d-%H%M%S")
 message="deploy$time"
