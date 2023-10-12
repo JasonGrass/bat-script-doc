@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,d as r}from"./app.ea85244f.js";const f=JSON.parse('{"title":"\u7B2C\u4E94\u7AE0 set \u547D\u4EE4\u8BE6\u89E3","description":"","frontmatter":{},"headers":[],"relativePath":"bat/chapter5.md"}'),o={name:"bat/chapter5.md"},s=r("",12),n=[s];function b(u,v,c,p,h,q){return a(),e("div",null,n)}var m=t(o,[["render",b]]);export{f as __pageData,m as default};
